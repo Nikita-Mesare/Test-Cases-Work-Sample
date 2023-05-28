@@ -1,2 +1,2 @@
 # Test-Cases-Work-Sample
-Test cases writing sample work for software application.
+"Rightmove Test Cases.xlsx" file is sample work sheet for test cases writing for software application.
